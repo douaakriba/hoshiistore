@@ -50,10 +50,6 @@ The form is connected to FormSubmit, allowing submissions to be received by emai
 
 **[View the live website](https://douaakriba.github.io/hoshiistore/)**
 
-## 📸 Preview
-
-*Add a screenshot of the website here.*
-
 
 
 Frontend development project created as a showcase of responsive web design, UI/UX, and JavaScript interactivity.
