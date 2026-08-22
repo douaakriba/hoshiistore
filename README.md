@@ -48,7 +48,7 @@ The form is connected to FormSubmit, allowing submissions to be received by emai
 
 ## 🚀 Live Demo
 
-**[View the live website](YOUR-GITHUB-PAGES-LINK)**
+**[View the live website](https://douaakriba.github.io/hoshiistore/)**
 
 ## 📸 Preview
 
